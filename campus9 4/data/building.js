@@ -1,0 +1,7411 @@
+window.BUILDING = {
+  "name": "ТулГУ · корпус №9",
+  "address": "Тула, проспект Ленина, 92",
+  "surveyDate": "2026-10-03",
+  "geometryStatus": "user-screenshots-2gis",
+  "weightUnit": "пиксели плана и штраф за лестницу",
+  "floors": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "plans": {
+    "1": {
+      "image": "assets/floor-1.png",
+      "imageWidth": 1996,
+      "imageHeight": 1248,
+      "viewBox": [
+        330,
+        140,
+        1320,
+        920
+      ],
+      "clipPolygon": [
+        [
+          468,
+          686
+        ],
+        [
+          630,
+          688
+        ],
+        [
+          623,
+          860
+        ],
+        [
+          886,
+          866
+        ],
+        [
+          874,
+          261
+        ],
+        [
+          1172,
+          266
+        ],
+        [
+          1124,
+          870
+        ],
+        [
+          1370,
+          878
+        ],
+        [
+          1360,
+          707
+        ],
+        [
+          1543,
+          711
+        ],
+        [
+          1535,
+          1030
+        ],
+        [
+          463,
+          1008
+        ]
+      ],
+      "sourceFilename": "8.38.55",
+      "corridorY": 942
+    },
+    "2": {
+      "image": "assets/floor-2.png",
+      "imageWidth": 1996,
+      "imageHeight": 1248,
+      "viewBox": [
+        330,
+        140,
+        1320,
+        920
+      ],
+      "clipPolygon": [
+        [
+          445,
+          613
+        ],
+        [
+          620,
+          617
+        ],
+        [
+          615,
+          793
+        ],
+        [
+          874,
+          799
+        ],
+        [
+          860,
+          177
+        ],
+        [
+          1168,
+          182
+        ],
+        [
+          1113,
+          807
+        ],
+        [
+          1408,
+          815
+        ],
+        [
+          1364,
+          639
+        ],
+        [
+          1545,
+          643
+        ],
+        [
+          1540,
+          971
+        ],
+        [
+          442,
+          943
+        ]
+      ],
+      "sourceFilename": "8.39.17",
+      "corridorY": 876
+    },
+    "3": {
+      "image": "assets/floor-3.png",
+      "imageWidth": 1996,
+      "imageHeight": 1248,
+      "viewBox": [
+        330,
+        140,
+        1320,
+        920
+      ],
+      "clipPolygon": [
+        [
+          431,
+          614
+        ],
+        [
+          620,
+          617
+        ],
+        [
+          615,
+          795
+        ],
+        [
+          872,
+          803
+        ],
+        [
+          855,
+          161
+        ],
+        [
+          1168,
+          168
+        ],
+        [
+          1119,
+          809
+        ],
+        [
+          1425,
+          821
+        ],
+        [
+          1360,
+          638
+        ],
+        [
+          1563,
+          644
+        ],
+        [
+          1559,
+          980
+        ],
+        [
+          427,
+          950
+        ]
+      ],
+      "sourceFilename": "8.39.27",
+      "corridorY": 885
+    },
+    "4": {
+      "image": "assets/floor-4.png",
+      "imageWidth": 1996,
+      "imageHeight": 1248,
+      "viewBox": [
+        330,
+        140,
+        1320,
+        920
+      ],
+      "clipPolygon": [
+        [
+          413,
+          611
+        ],
+        [
+          620,
+          615
+        ],
+        [
+          615,
+          798
+        ],
+        [
+          868,
+          805
+        ],
+        [
+          846,
+          150
+        ],
+        [
+          1173,
+          156
+        ],
+        [
+          1116,
+          813
+        ],
+        [
+          1434,
+          824
+        ],
+        [
+          1360,
+          634
+        ],
+        [
+          1575,
+          641
+        ],
+        [
+          1565,
+          986
+        ],
+        [
+          410,
+          960
+        ]
+      ],
+      "sourceFilename": "8.39.34",
+      "corridorY": 893
+    },
+    "5": {
+      "image": "assets/floor-5.png",
+      "imageWidth": 1996,
+      "imageHeight": 1248,
+      "viewBox": [
+        330,
+        140,
+        1320,
+        920
+      ],
+      "clipPolygon": [
+        [
+          395,
+          609
+        ],
+        [
+          620,
+          615
+        ],
+        [
+          615,
+          800
+        ],
+        [
+          863,
+          808
+        ],
+        [
+          844,
+          131
+        ],
+        [
+          1178,
+          135
+        ],
+        [
+          1120,
+          821
+        ],
+        [
+          1435,
+          828
+        ],
+        [
+          1360,
+          634
+        ],
+        [
+          1590,
+          644
+        ],
+        [
+          1580,
+          996
+        ],
+        [
+          390,
+          968
+        ]
+      ],
+      "sourceFilename": "8.39.37",
+      "corridorY": 900
+    },
+    "6": {
+      "image": "assets/floor-6.png",
+      "imageWidth": 1996,
+      "imageHeight": 1248,
+      "viewBox": [
+        330,
+        140,
+        1320,
+        920
+      ],
+      "clipPolygon": [
+        [
+          377,
+          608
+        ],
+        [
+          620,
+          615
+        ],
+        [
+          615,
+          802
+        ],
+        [
+          858,
+          811
+        ],
+        [
+          839,
+          125
+        ],
+        [
+          1174,
+          130
+        ],
+        [
+          1121,
+          824
+        ],
+        [
+          1438,
+          832
+        ],
+        [
+          1360,
+          633
+        ],
+        [
+          1600,
+          641
+        ],
+        [
+          1590,
+          1006
+        ],
+        [
+          372,
+          979
+        ]
+      ],
+      "sourceFilename": "8.39.43",
+      "corridorY": 909
+    },
+    "7": {
+      "image": "assets/floor-7.png",
+      "imageWidth": 1996,
+      "imageHeight": 1248,
+      "viewBox": [
+        330,
+        140,
+        1320,
+        920
+      ],
+      "clipPolygon": [
+        [
+          357,
+          604
+        ],
+        [
+          620,
+          615
+        ],
+        [
+          615,
+          806
+        ],
+        [
+          851,
+          816
+        ],
+        [
+          828,
+          125
+        ],
+        [
+          1180,
+          130
+        ],
+        [
+          1118,
+          826
+        ],
+        [
+          1446,
+          837
+        ],
+        [
+          1360,
+          632
+        ],
+        [
+          1619,
+          639
+        ],
+        [
+          1610,
+          1016
+        ],
+        [
+          349,
+          986
+        ]
+      ],
+      "sourceFilename": "8.39.48",
+      "corridorY": 917
+    }
+  },
+  "nodes": [
+    {
+      "id": "c1-0",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 546,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-1",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 581,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-2",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 587,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-3",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 638,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-4",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 650,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-5",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 718,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-6",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 805,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-7",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 839,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-8",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 900,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-9",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 1000,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-10",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 1105,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-11",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 1158,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-12",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 1170,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-13",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 1314,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-14",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 1380,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "c1-15",
+      "label": "Коридор",
+      "floor": 1,
+      "x": 1515,
+      "y": 942,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "w1-0",
+      "label": "Коридор западного крыла",
+      "floor": 1,
+      "x": 546,
+      "y": 805,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "w1-1",
+      "label": "Коридор западного крыла",
+      "floor": 1,
+      "x": 546,
+      "y": 825,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "w1-2",
+      "label": "Коридор западного крыла",
+      "floor": 1,
+      "x": 546,
+      "y": 855,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "w1-3",
+      "label": "Коридор западного крыла",
+      "floor": 1,
+      "x": 546,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "130",
+      "label": "Аудитория 9-130",
+      "floor": 1,
+      "x": 551,
+      "y": 747,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "128",
+      "label": "Аудитория 9-128",
+      "floor": 1,
+      "x": 511,
+      "y": 808,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "126",
+      "label": "Аудитория 9-126",
+      "floor": 1,
+      "x": 508,
+      "y": 862,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "117",
+      "label": "Аудитория 9-117",
+      "floor": 1,
+      "x": 587,
+      "y": 847,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "115",
+      "label": "Аудитория 9-115",
+      "floor": 1,
+      "x": 581,
+      "y": 902,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "113",
+      "label": "Аудитория 9-113",
+      "floor": 1,
+      "x": 650,
+      "y": 892,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "111",
+      "label": "Аудитория 9-111",
+      "floor": 1,
+      "x": 839,
+      "y": 901,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "109",
+      "label": "Аудитория 9-109",
+      "floor": 1,
+      "x": 1170,
+      "y": 908,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "105",
+      "label": "Аудитория 9-105",
+      "floor": 1,
+      "x": 1314,
+      "y": 913,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "101",
+      "label": "Аудитория 9-101",
+      "floor": 1,
+      "x": 1473,
+      "y": 802,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "122",
+      "label": "Аудитория 9-122",
+      "floor": 1,
+      "x": 517,
+      "y": 975,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "124",
+      "label": "Аудитория 9-124",
+      "floor": 1,
+      "x": 638,
+      "y": 977,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "118",
+      "label": "Аудитория 9-118",
+      "floor": 1,
+      "x": 718,
+      "y": 978,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "114",
+      "label": "Аудитория 9-114",
+      "floor": 1,
+      "x": 805,
+      "y": 978,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "110",
+      "label": "Аудитория 9-110",
+      "floor": 1,
+      "x": 1158,
+      "y": 991,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "104",
+      "label": "Аудитория 9-104",
+      "floor": 1,
+      "x": 1380,
+      "y": 995,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "sW1",
+      "label": "Западная лестница",
+      "floor": 1,
+      "x": 588,
+      "y": 826,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "shaft": "W"
+    },
+    {
+      "id": "sC1",
+      "label": "Центральная лестница",
+      "floor": 1,
+      "x": 900,
+      "y": 900,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "shaft": "C"
+    },
+    {
+      "id": "sD1",
+      "label": "Лестница у восточного коридора",
+      "floor": 1,
+      "x": 1105,
+      "y": 904,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "shaft": "D"
+    },
+    {
+      "id": "sE1",
+      "label": "Восточная лестница",
+      "floor": 1,
+      "x": 1515,
+      "y": 1003,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "shaft": "E"
+    },
+    {
+      "id": "b1-0",
+      "label": "Холл",
+      "floor": 1,
+      "x": 1000,
+      "y": 880,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "b1-1",
+      "label": "Холл",
+      "floor": 1,
+      "x": 1000,
+      "y": 780,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "b1-2",
+      "label": "Холл",
+      "floor": 1,
+      "x": 1000,
+      "y": 680,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "b1-3",
+      "label": "Холл",
+      "floor": 1,
+      "x": 1000,
+      "y": 590,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "b1-4",
+      "label": "Холл",
+      "floor": 1,
+      "x": 1000,
+      "y": 530,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "b1-5",
+      "label": "Холл",
+      "floor": 1,
+      "x": 1000,
+      "y": 430,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1"
+    },
+    {
+      "id": "entrance",
+      "label": "Вход",
+      "floor": 1,
+      "x": 1000,
+      "y": 1000,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "cloakroom",
+      "label": "Гардероб",
+      "floor": 1,
+      "x": 935,
+      "y": 430,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "passes",
+      "label": "Бюро пропусков",
+      "floor": 1,
+      "x": 940,
+      "y": 605,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "sber-atm",
+      "label": "Банкомат СберБанка",
+      "floor": 1,
+      "x": 935,
+      "y": 720,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "vtb-atm",
+      "label": "Банкомат ВТБ",
+      "floor": 1,
+      "x": 925,
+      "y": 842,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "coffee",
+      "label": "Брайт кофе",
+      "floor": 1,
+      "x": 1050,
+      "y": 540,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "buffet",
+      "label": "Буфет",
+      "floor": 1,
+      "x": 1090,
+      "y": 775,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "007",
+      "label": "Кабинет 007",
+      "floor": 1,
+      "x": 1090,
+      "y": 675,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "c2-0",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 521,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-1",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 568,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-2",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 587,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-3",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 675,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-4",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 680,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-5",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 771,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-6",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 826,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-7",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 845,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-8",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 900,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-9",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1000,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-10",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1105,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-11",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1145,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-12",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1163,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-13",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1226,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-14",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1290,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-15",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1302,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-16",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1372,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-17",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1380,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-18",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1468,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c2-19",
+      "label": "Коридор",
+      "floor": 2,
+      "x": 1515,
+      "y": 876,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "w2-0",
+      "label": "Коридор западного крыла",
+      "floor": 2,
+      "x": 521,
+      "y": 655,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "w2-1",
+      "label": "Коридор западного крыла",
+      "floor": 2,
+      "x": 521,
+      "y": 705,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "w2-2",
+      "label": "Коридор западного крыла",
+      "floor": 2,
+      "x": 521,
+      "y": 755,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "w2-3",
+      "label": "Коридор западного крыла",
+      "floor": 2,
+      "x": 521,
+      "y": 805,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "226а",
+      "label": "Аудитория 9-226а",
+      "floor": 2,
+      "x": 487,
+      "y": 672,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "226б",
+      "label": "Аудитория 9-226б",
+      "floor": 2,
+      "x": 565,
+      "y": 648,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "226в",
+      "label": "Аудитория 9-226в",
+      "floor": 2,
+      "x": 575,
+      "y": 706,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "224",
+      "label": "Аудитория 9-224",
+      "floor": 2,
+      "x": 483,
+      "y": 788,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "217",
+      "label": "Аудитория 9-217",
+      "floor": 2,
+      "x": 563,
+      "y": 784,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "215",
+      "label": "Аудитория 9-215",
+      "floor": 2,
+      "x": 568,
+      "y": 830,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "211",
+      "label": "Аудитория 9-211",
+      "floor": 2,
+      "x": 680,
+      "y": 830,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "209",
+      "label": "Аудитория 9-209",
+      "floor": 2,
+      "x": 826,
+      "y": 831,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "207",
+      "label": "Аудитория 9-207",
+      "floor": 2,
+      "x": 1163,
+      "y": 842,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "205",
+      "label": "Аудитория 9-205",
+      "floor": 2,
+      "x": 1290,
+      "y": 842,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "203",
+      "label": "Аудитория 9-203",
+      "floor": 2,
+      "x": 1372,
+      "y": 848,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "201",
+      "label": "Аудитория 9-201",
+      "floor": 2,
+      "x": 1475,
+      "y": 735,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "222",
+      "label": "Аудитория 9-222",
+      "floor": 2,
+      "x": 497,
+      "y": 910,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "218",
+      "label": "Аудитория 9-218",
+      "floor": 2,
+      "x": 587,
+      "y": 915,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "216",
+      "label": "Аудитория 9-216",
+      "floor": 2,
+      "x": 675,
+      "y": 915,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "214",
+      "label": "Аудитория 9-214",
+      "floor": 2,
+      "x": 771,
+      "y": 925,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "212",
+      "label": "Аудитория 9-212",
+      "floor": 2,
+      "x": 845,
+      "y": 925,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "210",
+      "label": "Аудитория 9-210",
+      "floor": 2,
+      "x": 1145,
+      "y": 928,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "208",
+      "label": "Аудитория 9-208",
+      "floor": 2,
+      "x": 1226,
+      "y": 930,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "206",
+      "label": "Аудитория 9-206",
+      "floor": 2,
+      "x": 1302,
+      "y": 932,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "204",
+      "label": "Аудитория 9-204",
+      "floor": 2,
+      "x": 1380,
+      "y": 939,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "202",
+      "label": "Аудитория 9-202",
+      "floor": 2,
+      "x": 1468,
+      "y": 942,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "sW2",
+      "label": "Западная лестница",
+      "floor": 2,
+      "x": 571,
+      "y": 751,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "shaft": "W"
+    },
+    {
+      "id": "sC2",
+      "label": "Центральная лестница",
+      "floor": 2,
+      "x": 900,
+      "y": 834,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "shaft": "C"
+    },
+    {
+      "id": "sD2",
+      "label": "Лестница у восточного коридора",
+      "floor": 2,
+      "x": 1105,
+      "y": 838,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "shaft": "D"
+    },
+    {
+      "id": "sE2",
+      "label": "Восточная лестница",
+      "floor": 2,
+      "x": 1515,
+      "y": 937,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "shaft": "E"
+    },
+    {
+      "id": "dining",
+      "label": "Столовая",
+      "floor": 2,
+      "x": 1000,
+      "y": 790,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "branch2",
+      "label": "Подход к столовой",
+      "floor": 2,
+      "x": 1000,
+      "y": 810,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2"
+    },
+    {
+      "id": "c3-0",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 516,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-1",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 536,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-2",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 557,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-3",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 611,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-4",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 670,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-5",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 696,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-6",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 795,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-7",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 900,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-8",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1000,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-9",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1105,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-10",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1160,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-11",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1168,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-12",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1235,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-13",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1302,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-14",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1304,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-15",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1386,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-16",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1387,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-17",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1464,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-18",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1495,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "c3-19",
+      "label": "Коридор",
+      "floor": 3,
+      "x": 1515,
+      "y": 885,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "w3-0",
+      "label": "Коридор западного крыла",
+      "floor": 3,
+      "x": 516,
+      "y": 655,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "w3-1",
+      "label": "Коридор западного крыла",
+      "floor": 3,
+      "x": 516,
+      "y": 705,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "w3-2",
+      "label": "Коридор западного крыла",
+      "floor": 3,
+      "x": 516,
+      "y": 755,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "w3-3",
+      "label": "Коридор западного крыла",
+      "floor": 3,
+      "x": 516,
+      "y": 805,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "330",
+      "label": "Аудитория 9-330",
+      "floor": 3,
+      "x": 476,
+      "y": 647,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "328",
+      "label": "Аудитория 9-328",
+      "floor": 3,
+      "x": 471,
+      "y": 705,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "323",
+      "label": "Аудитория 9-323",
+      "floor": 3,
+      "x": 565,
+      "y": 647,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "321",
+      "label": "Аудитория 9-321",
+      "floor": 3,
+      "x": 558,
+      "y": 705,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "326",
+      "label": "Аудитория 9-326",
+      "floor": 3,
+      "x": 472,
+      "y": 797,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "319",
+      "label": "Аудитория 9-319",
+      "floor": 3,
+      "x": 553,
+      "y": 784,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "317",
+      "label": "Аудитория 9-317",
+      "floor": 3,
+      "x": 557,
+      "y": 844,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "313",
+      "label": "Аудитория 9-313",
+      "floor": 3,
+      "x": 670,
+      "y": 834,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "309",
+      "label": "Аудитория 9-309",
+      "floor": 3,
+      "x": 1168,
+      "y": 852,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "307",
+      "label": "Аудитория 9-307",
+      "floor": 3,
+      "x": 1304,
+      "y": 854,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "305",
+      "label": "Аудитория 9-305",
+      "floor": 3,
+      "x": 1387,
+      "y": 856,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "301",
+      "label": "Аудитория 9-301",
+      "floor": 3,
+      "x": 1495,
+      "y": 857,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "324",
+      "label": "Аудитория 9-324",
+      "floor": 3,
+      "x": 470,
+      "y": 922,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "322",
+      "label": "Аудитория 9-322",
+      "floor": 3,
+      "x": 536,
+      "y": 922,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "320",
+      "label": "Аудитория 9-320",
+      "floor": 3,
+      "x": 611,
+      "y": 925,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "318",
+      "label": "Аудитория 9-318",
+      "floor": 3,
+      "x": 696,
+      "y": 930,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "316",
+      "label": "Аудитория 9-316",
+      "floor": 3,
+      "x": 795,
+      "y": 931,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "310",
+      "label": "Аудитория 9-310",
+      "floor": 3,
+      "x": 1160,
+      "y": 941,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "308",
+      "label": "Аудитория 9-308",
+      "floor": 3,
+      "x": 1235,
+      "y": 942,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "306",
+      "label": "Аудитория 9-306",
+      "floor": 3,
+      "x": 1302,
+      "y": 946,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "304",
+      "label": "Аудитория 9-304",
+      "floor": 3,
+      "x": 1386,
+      "y": 949,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "302",
+      "label": "Аудитория 9-302",
+      "floor": 3,
+      "x": 1464,
+      "y": 951,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "sW3",
+      "label": "Западная лестница",
+      "floor": 3,
+      "x": 566,
+      "y": 760,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "shaft": "W"
+    },
+    {
+      "id": "sC3",
+      "label": "Центральная лестница",
+      "floor": 3,
+      "x": 900,
+      "y": 843,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "shaft": "C"
+    },
+    {
+      "id": "sD3",
+      "label": "Лестница у восточного коридора",
+      "floor": 3,
+      "x": 1105,
+      "y": 847,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "shaft": "D"
+    },
+    {
+      "id": "sE3",
+      "label": "Восточная лестница",
+      "floor": 3,
+      "x": 1515,
+      "y": 946,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "shaft": "E"
+    },
+    {
+      "id": "b3-0",
+      "label": "Подход к залу",
+      "floor": 3,
+      "x": 995,
+      "y": 800,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "b3-1",
+      "label": "Подход к залу",
+      "floor": 3,
+      "x": 995,
+      "y": 745,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "b3-2",
+      "label": "Подход к залу",
+      "floor": 3,
+      "x": 995,
+      "y": 690,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "b3-3",
+      "label": "Подход к залу",
+      "floor": 3,
+      "x": 995,
+      "y": 610,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3"
+    },
+    {
+      "id": "internet-institute",
+      "label": "Интернет-институт",
+      "floor": 3,
+      "x": 940,
+      "y": 765,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "20",
+      "label": "Кабинет 20",
+      "floor": 3,
+      "x": 920,
+      "y": 705,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "22а",
+      "label": "Кабинет 22а",
+      "floor": 3,
+      "x": 1000,
+      "y": 673,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "hall-3",
+      "label": "Актовый зал · уровень 3",
+      "floor": 3,
+      "x": 1000,
+      "y": 565,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "c4-0",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 504,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-1",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 529,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-2",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 539,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-3",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 610,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-4",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 658,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-5",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 688,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-6",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 835,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-7",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 900,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-8",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1000,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-9",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1105,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-10",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1156,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-11",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1173,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-12",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1230,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-13",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1311,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-14",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1328,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-15",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1397,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-16",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1420,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "c4-17",
+      "label": "Коридор",
+      "floor": 4,
+      "x": 1515,
+      "y": 893,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "w4-0",
+      "label": "Коридор западного крыла",
+      "floor": 4,
+      "x": 504,
+      "y": 655,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "w4-1",
+      "label": "Коридор западного крыла",
+      "floor": 4,
+      "x": 504,
+      "y": 705,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "w4-2",
+      "label": "Коридор западного крыла",
+      "floor": 4,
+      "x": 504,
+      "y": 755,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "w4-3",
+      "label": "Коридор западного крыла",
+      "floor": 4,
+      "x": 504,
+      "y": 805,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "426",
+      "label": "Аудитория 9-426",
+      "floor": 4,
+      "x": 460,
+      "y": 678,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "428",
+      "label": "Аудитория 9-428",
+      "floor": 4,
+      "x": 533,
+      "y": 680,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "424",
+      "label": "Аудитория 9-424",
+      "floor": 4,
+      "x": 461,
+      "y": 799,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "417",
+      "label": "Аудитория 9-417",
+      "floor": 4,
+      "x": 536,
+      "y": 795,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "415",
+      "label": "Аудитория 9-415",
+      "floor": 4,
+      "x": 539,
+      "y": 848,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "413",
+      "label": "Аудитория 9-413",
+      "floor": 4,
+      "x": 610,
+      "y": 835,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "413а",
+      "label": "Аудитория 9-413а",
+      "floor": 4,
+      "x": 688,
+      "y": 837,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "407а",
+      "label": "Аудитория 9-407а",
+      "floor": 4,
+      "x": 1173,
+      "y": 852,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "407",
+      "label": "Аудитория 9-407",
+      "floor": 4,
+      "x": 1328,
+      "y": 855,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "403",
+      "label": "Аудитория 9-403",
+      "floor": 4,
+      "x": 1420,
+      "y": 860,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "401",
+      "label": "Аудитория 9-401",
+      "floor": 4,
+      "x": 1504,
+      "y": 744,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "422",
+      "label": "Аудитория 9-422",
+      "floor": 4,
+      "x": 466,
+      "y": 925,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "420",
+      "label": "Аудитория 9-420",
+      "floor": 4,
+      "x": 529,
+      "y": 925,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "416",
+      "label": "Аудитория 9-416",
+      "floor": 4,
+      "x": 658,
+      "y": 928,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "412",
+      "label": "Аудитория 9-412",
+      "floor": 4,
+      "x": 835,
+      "y": 940,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "410",
+      "label": "Аудитория 9-410",
+      "floor": 4,
+      "x": 1156,
+      "y": 944,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "408",
+      "label": "Аудитория 9-408",
+      "floor": 4,
+      "x": 1230,
+      "y": 945,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "406",
+      "label": "Аудитория 9-406",
+      "floor": 4,
+      "x": 1311,
+      "y": 950,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "404",
+      "label": "Аудитория 9-404",
+      "floor": 4,
+      "x": 1397,
+      "y": 954,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "sW4",
+      "label": "Западная лестница",
+      "floor": 4,
+      "x": 554,
+      "y": 768,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "shaft": "W"
+    },
+    {
+      "id": "sC4",
+      "label": "Центральная лестница",
+      "floor": 4,
+      "x": 900,
+      "y": 851,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "shaft": "C"
+    },
+    {
+      "id": "sD4",
+      "label": "Лестница у восточного коридора",
+      "floor": 4,
+      "x": 1105,
+      "y": 855,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "shaft": "D"
+    },
+    {
+      "id": "sE4",
+      "label": "Восточная лестница",
+      "floor": 4,
+      "x": 1515,
+      "y": 954,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "shaft": "E"
+    },
+    {
+      "id": "foyer-4",
+      "label": "Фойе актового зала",
+      "floor": 4,
+      "x": 1000,
+      "y": 750,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4"
+    },
+    {
+      "id": "hall-4",
+      "label": "Актовый зал · 4 этаж",
+      "floor": 4,
+      "x": 1000,
+      "y": 605,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "c5-0",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 487,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-1",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 499,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-2",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 516,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-3",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 642,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-4",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 746,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-5",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 816,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-6",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 822,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-7",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 900,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-8",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1000,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-9",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1105,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-10",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1165,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-11",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1174,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-12",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1246,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-13",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1317,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-14",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1320,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-15",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1401,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-16",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1405,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-17",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1460,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-18",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1515,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "c5-19",
+      "label": "Коридор",
+      "floor": 5,
+      "x": 1539,
+      "y": 900,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "w5-0",
+      "label": "Коридор западного крыла",
+      "floor": 5,
+      "x": 487,
+      "y": 655,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "w5-1",
+      "label": "Коридор западного крыла",
+      "floor": 5,
+      "x": 487,
+      "y": 705,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "w5-2",
+      "label": "Коридор западного крыла",
+      "floor": 5,
+      "x": 487,
+      "y": 755,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "w5-3",
+      "label": "Коридор западного крыла",
+      "floor": 5,
+      "x": 487,
+      "y": 805,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5"
+    },
+    {
+      "id": "528",
+      "label": "Аудитория 9-528",
+      "floor": 5,
+      "x": 439,
+      "y": 676,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "530",
+      "label": "Аудитория 9-530",
+      "floor": 5,
+      "x": 523,
+      "y": 677,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "526",
+      "label": "Аудитория 9-526",
+      "floor": 5,
+      "x": 435,
+      "y": 801,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "519",
+      "label": "Аудитория 9-519",
+      "floor": 5,
+      "x": 521,
+      "y": 801,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "517",
+      "label": "Аудитория 9-517",
+      "floor": 5,
+      "x": 516,
+      "y": 851,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "513",
+      "label": "Аудитория 9-513",
+      "floor": 5,
+      "x": 642,
+      "y": 841,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "511",
+      "label": "Аудитория 9-511",
+      "floor": 5,
+      "x": 816,
+      "y": 844,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "509",
+      "label": "Аудитория 9-509",
+      "floor": 5,
+      "x": 1174,
+      "y": 861,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "507",
+      "label": "Аудитория 9-507",
+      "floor": 5,
+      "x": 1317,
+      "y": 863,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "505",
+      "label": "Аудитория 9-505",
+      "floor": 5,
+      "x": 1405,
+      "y": 867,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "503",
+      "label": "Аудитория 9-503",
+      "floor": 5,
+      "x": 1460,
+      "y": 868,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "501",
+      "label": "Аудитория 9-501",
+      "floor": 5,
+      "x": 1539,
+      "y": 869,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "524",
+      "label": "Аудитория 9-524",
+      "floor": 5,
+      "x": 442,
+      "y": 932,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "522",
+      "label": "Аудитория 9-522",
+      "floor": 5,
+      "x": 499,
+      "y": 932,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "518",
+      "label": "Аудитория 9-518",
+      "floor": 5,
+      "x": 642,
+      "y": 937,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "516",
+      "label": "Аудитория 9-516",
+      "floor": 5,
+      "x": 746,
+      "y": 940,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "514",
+      "label": "Аудитория 9-514",
+      "floor": 5,
+      "x": 822,
+      "y": 944,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "510",
+      "label": "Аудитория 9-510",
+      "floor": 5,
+      "x": 1165,
+      "y": 955,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "508",
+      "label": "Аудитория 9-508",
+      "floor": 5,
+      "x": 1246,
+      "y": 955,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "506",
+      "label": "Аудитория 9-506",
+      "floor": 5,
+      "x": 1320,
+      "y": 960,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "504",
+      "label": "Аудитория 9-504",
+      "floor": 5,
+      "x": 1401,
+      "y": 963,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "sW5",
+      "label": "Западная лестница",
+      "floor": 5,
+      "x": 537,
+      "y": 775,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "shaft": "W"
+    },
+    {
+      "id": "sC5",
+      "label": "Центральная лестница",
+      "floor": 5,
+      "x": 900,
+      "y": 858,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "shaft": "C"
+    },
+    {
+      "id": "sD5",
+      "label": "Лестница у восточного коридора",
+      "floor": 5,
+      "x": 1105,
+      "y": 862,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "shaft": "D"
+    },
+    {
+      "id": "sE5",
+      "label": "Восточная лестница",
+      "floor": 5,
+      "x": 1515,
+      "y": 961,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "shaft": "E"
+    },
+    {
+      "id": "museum",
+      "label": "Музей истории ТулГУ",
+      "floor": 5,
+      "x": 990,
+      "y": 746,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "c6-0",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 470,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-1",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 495,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-2",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 576,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-3",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 640,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-4",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 658,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-5",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 732,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-6",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 804,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-7",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 900,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-8",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 1000,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-9",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 1105,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-10",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 1168,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-11",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 1172,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-12",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 1241,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-13",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 1323,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-14",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 1410,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "c6-15",
+      "label": "Коридор",
+      "floor": 6,
+      "x": 1515,
+      "y": 909,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "w6-0",
+      "label": "Коридор западного крыла",
+      "floor": 6,
+      "x": 470,
+      "y": 655,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "w6-1",
+      "label": "Коридор западного крыла",
+      "floor": 6,
+      "x": 470,
+      "y": 705,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "w6-2",
+      "label": "Коридор западного крыла",
+      "floor": 6,
+      "x": 470,
+      "y": 755,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "w6-3",
+      "label": "Коридор западного крыла",
+      "floor": 6,
+      "x": 470,
+      "y": 805,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6"
+    },
+    {
+      "id": "624",
+      "label": "Аудитория 9-624",
+      "floor": 6,
+      "x": 426,
+      "y": 679,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "626",
+      "label": "Аудитория 9-626",
+      "floor": 6,
+      "x": 510,
+      "y": 679,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "622",
+      "label": "Аудитория 9-622",
+      "floor": 6,
+      "x": 421,
+      "y": 802,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "615",
+      "label": "Аудитория 9-615",
+      "floor": 6,
+      "x": 506,
+      "y": 801,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "613",
+      "label": "Аудитория 9-613",
+      "floor": 6,
+      "x": 495,
+      "y": 859,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "611",
+      "label": "Аудитория 9-611",
+      "floor": 6,
+      "x": 576,
+      "y": 846,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "611а",
+      "label": "Аудитория 9-611а",
+      "floor": 6,
+      "x": 658,
+      "y": 850,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "609",
+      "label": "Аудитория 9-609",
+      "floor": 6,
+      "x": 804,
+      "y": 850,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "607",
+      "label": "Аудитория 9-607",
+      "floor": 6,
+      "x": 1172,
+      "y": 869,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "605",
+      "label": "Аудитория 9-605",
+      "floor": 6,
+      "x": 1323,
+      "y": 872,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "603",
+      "label": "Аудитория 9-603",
+      "floor": 6,
+      "x": 1410,
+      "y": 877,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "601",
+      "label": "Аудитория 9-601",
+      "floor": 6,
+      "x": 1530,
+      "y": 745,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "620",
+      "label": "Аудитория 9-620",
+      "floor": 6,
+      "x": 450,
+      "y": 945,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "616",
+      "label": "Аудитория 9-616",
+      "floor": 6,
+      "x": 640,
+      "y": 950,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "614",
+      "label": "Аудитория 9-614",
+      "floor": 6,
+      "x": 732,
+      "y": 953,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "610",
+      "label": "Аудитория 9-610",
+      "floor": 6,
+      "x": 1168,
+      "y": 963,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "608",
+      "label": "Аудитория 9-608",
+      "floor": 6,
+      "x": 1241,
+      "y": 966,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "sW6",
+      "label": "Западная лестница",
+      "floor": 6,
+      "x": 520,
+      "y": 784,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "shaft": "W"
+    },
+    {
+      "id": "sC6",
+      "label": "Центральная лестница",
+      "floor": 6,
+      "x": 900,
+      "y": 867,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "shaft": "C"
+    },
+    {
+      "id": "sD6",
+      "label": "Лестница у восточного коридора",
+      "floor": 6,
+      "x": 1105,
+      "y": 871,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "shaft": "D"
+    },
+    {
+      "id": "sE6",
+      "label": "Восточная лестница",
+      "floor": 6,
+      "x": 1515,
+      "y": 970,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "shaft": "E"
+    },
+    {
+      "id": "c7-0",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 445,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-1",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 475,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-2",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 479,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-3",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 592,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-4",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 617,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-5",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 719,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-6",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 799,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-7",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 814,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-8",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 900,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-9",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1000,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-10",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1105,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-11",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1174,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-12",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1181,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-13",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1250,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-14",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1333,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-15",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1336,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-16",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1416,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-17",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1420,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-18",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1486,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-19",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1515,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "c7-20",
+      "label": "Коридор",
+      "floor": 7,
+      "x": 1559,
+      "y": 917,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "w7-0",
+      "label": "Коридор западного крыла",
+      "floor": 7,
+      "x": 445,
+      "y": 655,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "w7-1",
+      "label": "Коридор западного крыла",
+      "floor": 7,
+      "x": 445,
+      "y": 705,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "w7-2",
+      "label": "Коридор западного крыла",
+      "floor": 7,
+      "x": 445,
+      "y": 755,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "w7-3",
+      "label": "Коридор западного крыла",
+      "floor": 7,
+      "x": 445,
+      "y": 805,
+      "kind": "corridor",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7"
+    },
+    {
+      "id": "732",
+      "label": "Аудитория 9-732",
+      "floor": 7,
+      "x": 406,
+      "y": 665,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "734",
+      "label": "Аудитория 9-734",
+      "floor": 7,
+      "x": 485,
+      "y": 628,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "730",
+      "label": "Аудитория 9-730",
+      "floor": 7,
+      "x": 405,
+      "y": 744,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "728",
+      "label": "Аудитория 9-728",
+      "floor": 7,
+      "x": 497,
+      "y": 696,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "726",
+      "label": "Аудитория 9-726",
+      "floor": 7,
+      "x": 410,
+      "y": 810,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "724",
+      "label": "Аудитория 9-724",
+      "floor": 7,
+      "x": 410,
+      "y": 867,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "717",
+      "label": "Аудитория 9-717",
+      "floor": 7,
+      "x": 486,
+      "y": 805,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "715",
+      "label": "Аудитория 9-715",
+      "floor": 7,
+      "x": 475,
+      "y": 865,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "713",
+      "label": "Аудитория 9-713",
+      "floor": 7,
+      "x": 592,
+      "y": 851,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "711",
+      "label": "Аудитория 9-711",
+      "floor": 7,
+      "x": 799,
+      "y": 855,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "709",
+      "label": "Аудитория 9-709",
+      "floor": 7,
+      "x": 1181,
+      "y": 870,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "707",
+      "label": "Аудитория 9-707",
+      "floor": 7,
+      "x": 1333,
+      "y": 877,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "705",
+      "label": "Аудитория 9-705",
+      "floor": 7,
+      "x": 1420,
+      "y": 880,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "703",
+      "label": "Аудитория 9-703",
+      "floor": 7,
+      "x": 1486,
+      "y": 882,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "701",
+      "label": "Аудитория 9-701",
+      "floor": 7,
+      "x": 1559,
+      "y": 880,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "722",
+      "label": "Аудитория 9-722",
+      "floor": 7,
+      "x": 410,
+      "y": 944,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "720",
+      "label": "Аудитория 9-720",
+      "floor": 7,
+      "x": 479,
+      "y": 947,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "716",
+      "label": "Аудитория 9-716",
+      "floor": 7,
+      "x": 617,
+      "y": 955,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "714",
+      "label": "Аудитория 9-714",
+      "floor": 7,
+      "x": 719,
+      "y": 963,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "712",
+      "label": "Аудитория 9-712",
+      "floor": 7,
+      "x": 814,
+      "y": 962,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "710",
+      "label": "Аудитория 9-710",
+      "floor": 7,
+      "x": 1174,
+      "y": 976,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "708",
+      "label": "Аудитория 9-708",
+      "floor": 7,
+      "x": 1250,
+      "y": 977,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "706",
+      "label": "Аудитория 9-706",
+      "floor": 7,
+      "x": 1336,
+      "y": 982,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "704",
+      "label": "Аудитория 9-704",
+      "floor": 7,
+      "x": 1416,
+      "y": 985,
+      "kind": "room",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "existenceStatus": "visible-label",
+      "floorStatus": "screenshot-and-number",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "sW7",
+      "label": "Западная лестница",
+      "floor": 7,
+      "x": 495,
+      "y": 792,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "shaft": "W"
+    },
+    {
+      "id": "sC7",
+      "label": "Центральная лестница",
+      "floor": 7,
+      "x": 900,
+      "y": 875,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "shaft": "C"
+    },
+    {
+      "id": "sD7",
+      "label": "Лестница у восточного коридора",
+      "floor": 7,
+      "x": 1105,
+      "y": 879,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "shaft": "D"
+    },
+    {
+      "id": "sE7",
+      "label": "Восточная лестница",
+      "floor": 7,
+      "x": 1515,
+      "y": 978,
+      "kind": "stairs",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "shaft": "E"
+    },
+    {
+      "id": "wc-west-1",
+      "label": "Санузел · запад · 1 этаж",
+      "floor": 1,
+      "x": 788,
+      "y": 898,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-1",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-west-2",
+      "label": "Санузел · запад · 2 этаж",
+      "floor": 2,
+      "x": 775,
+      "y": 832,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-east-2",
+      "label": "Санузел · восток · 2 этаж",
+      "floor": 2,
+      "x": 1230,
+      "y": 832,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-2",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-west-3",
+      "label": "Санузел · запад · 3 этаж",
+      "floor": 3,
+      "x": 765,
+      "y": 841,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-east-3",
+      "label": "Санузел · восток · 3 этаж",
+      "floor": 3,
+      "x": 1236,
+      "y": 841,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-3",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-west-4",
+      "label": "Санузел · запад · 4 этаж",
+      "floor": 4,
+      "x": 758,
+      "y": 849,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-east-4",
+      "label": "Санузел · восток · 4 этаж",
+      "floor": 4,
+      "x": 1235,
+      "y": 849,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-4",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-west-5",
+      "label": "Санузел · запад · 5 этаж",
+      "floor": 5,
+      "x": 751,
+      "y": 856,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-east-5",
+      "label": "Санузел · восток · 5 этаж",
+      "floor": 5,
+      "x": 1240,
+      "y": 856,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-5",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-west-6",
+      "label": "Санузел · запад · 6 этаж",
+      "floor": 6,
+      "x": 741,
+      "y": 865,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-east-6",
+      "label": "Санузел · восток · 6 этаж",
+      "floor": 6,
+      "x": 1242,
+      "y": 865,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-6",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-west-7",
+      "label": "Санузел · запад · 7 этаж",
+      "floor": 7,
+      "x": 713,
+      "y": 873,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "doorStatus": "approximate"
+    },
+    {
+      "id": "wc-east-7",
+      "label": "Санузел · восток · 7 этаж",
+      "floor": 7,
+      "x": 1254,
+      "y": 873,
+      "kind": "poi",
+      "positionStatus": "digitized-screenshot",
+      "source": "floor-7",
+      "doorStatus": "approximate"
+    }
+  ],
+  "edges": [
+    {
+      "a": "c1-0",
+      "b": "c1-1",
+      "weight": 35.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-1",
+      "b": "c1-2",
+      "weight": 6.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-2",
+      "b": "c1-3",
+      "weight": 51.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-3",
+      "b": "c1-4",
+      "weight": 12.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-4",
+      "b": "c1-5",
+      "weight": 68.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-5",
+      "b": "c1-6",
+      "weight": 87.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-6",
+      "b": "c1-7",
+      "weight": 34.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-7",
+      "b": "c1-8",
+      "weight": 61.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-8",
+      "b": "c1-9",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-9",
+      "b": "c1-10",
+      "weight": 105.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-10",
+      "b": "c1-11",
+      "weight": 53.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-11",
+      "b": "c1-12",
+      "weight": 12.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-12",
+      "b": "c1-13",
+      "weight": 144.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-13",
+      "b": "c1-14",
+      "weight": 66.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c1-14",
+      "b": "c1-15",
+      "weight": 135.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w1-0",
+      "b": "w1-1",
+      "weight": 20.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w1-1",
+      "b": "w1-2",
+      "weight": 30.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w1-2",
+      "b": "w1-3",
+      "weight": 45.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w1-3",
+      "b": "c1-0",
+      "weight": 42.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "130",
+      "b": "w1-0",
+      "weight": 58.22,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "128",
+      "b": "w1-0",
+      "weight": 35.13,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "126",
+      "b": "w1-2",
+      "weight": 38.64,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "117",
+      "b": "w1-2",
+      "weight": 41.77,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "115",
+      "b": "c1-1",
+      "weight": 40.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "113",
+      "b": "c1-4",
+      "weight": 50.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "111",
+      "b": "c1-7",
+      "weight": 41.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "109",
+      "b": "c1-12",
+      "weight": 34.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "105",
+      "b": "c1-13",
+      "weight": 29.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "101",
+      "b": "c1-15",
+      "weight": 146.16,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "122",
+      "b": "c1-0",
+      "weight": 43.93,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "124",
+      "b": "c1-3",
+      "weight": 35.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "118",
+      "b": "c1-5",
+      "weight": 36.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "114",
+      "b": "c1-6",
+      "weight": 36.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "110",
+      "b": "c1-11",
+      "weight": 49.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "104",
+      "b": "c1-14",
+      "weight": 53.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "sW1",
+      "b": "w1-2",
+      "weight": 51.04,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sC1",
+      "b": "c1-8",
+      "weight": 42.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sD1",
+      "b": "c1-10",
+      "weight": 38.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sE1",
+      "b": "c1-15",
+      "weight": 61.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "b1-0",
+      "b": "c1-9",
+      "weight": 62.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "b1-1",
+      "b": "b1-0",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "b1-2",
+      "b": "b1-1",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "b1-3",
+      "b": "b1-2",
+      "weight": 90.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "b1-4",
+      "b": "b1-3",
+      "weight": 60.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "b1-5",
+      "b": "b1-4",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "entrance",
+      "b": "c1-9",
+      "weight": 58.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "cloakroom",
+      "b": "b1-5",
+      "weight": 65.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "passes",
+      "b": "b1-3",
+      "weight": 61.85,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "sber-atm",
+      "b": "b1-2",
+      "weight": 76.32,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "vtb-atm",
+      "b": "b1-0",
+      "weight": 84.08,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "coffee",
+      "b": "b1-4",
+      "weight": 50.99,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "buffet",
+      "b": "b1-1",
+      "weight": 90.14,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "007",
+      "b": "b1-2",
+      "weight": 90.14,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "c2-0",
+      "b": "c2-1",
+      "weight": 47.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-1",
+      "b": "c2-2",
+      "weight": 19.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-2",
+      "b": "c2-3",
+      "weight": 88.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-3",
+      "b": "c2-4",
+      "weight": 5.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-4",
+      "b": "c2-5",
+      "weight": 91.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-5",
+      "b": "c2-6",
+      "weight": 55.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-6",
+      "b": "c2-7",
+      "weight": 19.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-7",
+      "b": "c2-8",
+      "weight": 55.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-8",
+      "b": "c2-9",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-9",
+      "b": "c2-10",
+      "weight": 105.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-10",
+      "b": "c2-11",
+      "weight": 40.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-11",
+      "b": "c2-12",
+      "weight": 18.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-12",
+      "b": "c2-13",
+      "weight": 63.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-13",
+      "b": "c2-14",
+      "weight": 64.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-14",
+      "b": "c2-15",
+      "weight": 12.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-15",
+      "b": "c2-16",
+      "weight": 70.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-16",
+      "b": "c2-17",
+      "weight": 8.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-17",
+      "b": "c2-18",
+      "weight": 88.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c2-18",
+      "b": "c2-19",
+      "weight": 47.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w2-0",
+      "b": "w2-1",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w2-1",
+      "b": "w2-2",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w2-2",
+      "b": "w2-3",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w2-3",
+      "b": "c2-0",
+      "weight": 71.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "226а",
+      "b": "w2-0",
+      "weight": 38.01,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "226б",
+      "b": "w2-0",
+      "weight": 44.55,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "226в",
+      "b": "w2-1",
+      "weight": 54.01,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "224",
+      "b": "w2-3",
+      "weight": 41.63,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "217",
+      "b": "w2-3",
+      "weight": 46.96,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "215",
+      "b": "c2-1",
+      "weight": 46.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "211",
+      "b": "c2-4",
+      "weight": 46.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "209",
+      "b": "c2-6",
+      "weight": 45.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "207",
+      "b": "c2-12",
+      "weight": 34.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "205",
+      "b": "c2-14",
+      "weight": 34.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "203",
+      "b": "c2-16",
+      "weight": 28.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "201",
+      "b": "c2-18",
+      "weight": 141.17,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "222",
+      "b": "c2-0",
+      "weight": 41.62,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "218",
+      "b": "c2-2",
+      "weight": 39.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "216",
+      "b": "c2-3",
+      "weight": 39.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "214",
+      "b": "c2-5",
+      "weight": 49.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "212",
+      "b": "c2-7",
+      "weight": 49.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "210",
+      "b": "c2-11",
+      "weight": 52.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "208",
+      "b": "c2-13",
+      "weight": 54.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "206",
+      "b": "c2-15",
+      "weight": 56.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "204",
+      "b": "c2-17",
+      "weight": 63.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "202",
+      "b": "c2-18",
+      "weight": 66.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "sW2",
+      "b": "w2-2",
+      "weight": 50.16,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sW1",
+      "b": "sW2",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sC2",
+      "b": "c2-8",
+      "weight": 42.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sC1",
+      "b": "sC2",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sD2",
+      "b": "c2-10",
+      "weight": 38.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sD1",
+      "b": "sD2",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sE2",
+      "b": "c2-19",
+      "weight": 61.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sE1",
+      "b": "sE2",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "branch2",
+      "b": "c2-9",
+      "weight": 66.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "dining",
+      "b": "branch2",
+      "weight": 20.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "c3-0",
+      "b": "c3-1",
+      "weight": 20.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-1",
+      "b": "c3-2",
+      "weight": 21.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-2",
+      "b": "c3-3",
+      "weight": 54.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-3",
+      "b": "c3-4",
+      "weight": 59.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-4",
+      "b": "c3-5",
+      "weight": 26.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-5",
+      "b": "c3-6",
+      "weight": 99.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-6",
+      "b": "c3-7",
+      "weight": 105.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-7",
+      "b": "c3-8",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-8",
+      "b": "c3-9",
+      "weight": 105.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-9",
+      "b": "c3-10",
+      "weight": 55.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-10",
+      "b": "c3-11",
+      "weight": 8.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-11",
+      "b": "c3-12",
+      "weight": 67.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-12",
+      "b": "c3-13",
+      "weight": 67.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-13",
+      "b": "c3-14",
+      "weight": 2.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-14",
+      "b": "c3-15",
+      "weight": 82.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-15",
+      "b": "c3-16",
+      "weight": 1.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-16",
+      "b": "c3-17",
+      "weight": 77.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-17",
+      "b": "c3-18",
+      "weight": 31.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c3-18",
+      "b": "c3-19",
+      "weight": 20.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w3-0",
+      "b": "w3-1",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w3-1",
+      "b": "w3-2",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w3-2",
+      "b": "w3-3",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w3-3",
+      "b": "c3-0",
+      "weight": 80.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "330",
+      "b": "w3-0",
+      "weight": 40.79,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "328",
+      "b": "w3-1",
+      "weight": 45.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "323",
+      "b": "w3-0",
+      "weight": 49.65,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "321",
+      "b": "w3-1",
+      "weight": 42.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "326",
+      "b": "w3-3",
+      "weight": 44.72,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "319",
+      "b": "w3-3",
+      "weight": 42.54,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "317",
+      "b": "c3-2",
+      "weight": 41.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "313",
+      "b": "c3-4",
+      "weight": 51.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "309",
+      "b": "c3-11",
+      "weight": 33.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "307",
+      "b": "c3-14",
+      "weight": 31.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "305",
+      "b": "c3-16",
+      "weight": 29.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "301",
+      "b": "c3-18",
+      "weight": 28.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "324",
+      "b": "c3-0",
+      "weight": 59.03,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "322",
+      "b": "c3-1",
+      "weight": 37.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "320",
+      "b": "c3-3",
+      "weight": 40.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "318",
+      "b": "c3-5",
+      "weight": 45.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "316",
+      "b": "c3-6",
+      "weight": 46.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "310",
+      "b": "c3-10",
+      "weight": 56.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "308",
+      "b": "c3-12",
+      "weight": 57.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "306",
+      "b": "c3-13",
+      "weight": 61.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "304",
+      "b": "c3-15",
+      "weight": 64.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "302",
+      "b": "c3-17",
+      "weight": 66.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "sW3",
+      "b": "w3-2",
+      "weight": 50.25,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sW2",
+      "b": "sW3",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sC3",
+      "b": "c3-7",
+      "weight": 42.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sC2",
+      "b": "sC3",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sD3",
+      "b": "c3-9",
+      "weight": 38.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sD2",
+      "b": "sD3",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sE3",
+      "b": "c3-19",
+      "weight": 61.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sE2",
+      "b": "sE3",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "b3-0",
+      "b": "c3-8",
+      "weight": 85.15,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "b3-1",
+      "b": "b3-0",
+      "weight": 55.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "b3-2",
+      "b": "b3-1",
+      "weight": 55.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "b3-3",
+      "b": "b3-2",
+      "weight": 80.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "internet-institute",
+      "b": "b3-1",
+      "weight": 58.52,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "20",
+      "b": "b3-2",
+      "weight": 76.49,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "22а",
+      "b": "b3-2",
+      "weight": 17.72,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "hall-3",
+      "b": "b3-3",
+      "weight": 45.28,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "c4-0",
+      "b": "c4-1",
+      "weight": 25.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-1",
+      "b": "c4-2",
+      "weight": 10.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-2",
+      "b": "c4-3",
+      "weight": 71.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-3",
+      "b": "c4-4",
+      "weight": 48.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-4",
+      "b": "c4-5",
+      "weight": 30.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-5",
+      "b": "c4-6",
+      "weight": 147.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-6",
+      "b": "c4-7",
+      "weight": 65.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-7",
+      "b": "c4-8",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-8",
+      "b": "c4-9",
+      "weight": 105.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-9",
+      "b": "c4-10",
+      "weight": 51.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-10",
+      "b": "c4-11",
+      "weight": 17.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-11",
+      "b": "c4-12",
+      "weight": 57.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-12",
+      "b": "c4-13",
+      "weight": 81.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-13",
+      "b": "c4-14",
+      "weight": 17.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-14",
+      "b": "c4-15",
+      "weight": 69.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-15",
+      "b": "c4-16",
+      "weight": 23.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c4-16",
+      "b": "c4-17",
+      "weight": 95.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w4-0",
+      "b": "w4-1",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w4-1",
+      "b": "w4-2",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w4-2",
+      "b": "w4-3",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w4-3",
+      "b": "c4-0",
+      "weight": 88.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "426",
+      "b": "w4-0",
+      "weight": 49.65,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "428",
+      "b": "w4-0",
+      "weight": 38.29,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "424",
+      "b": "w4-3",
+      "weight": 43.42,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "417",
+      "b": "w4-3",
+      "weight": 33.53,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "415",
+      "b": "c4-2",
+      "weight": 45.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "413",
+      "b": "c4-3",
+      "weight": 58.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "413а",
+      "b": "c4-5",
+      "weight": 56.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "407а",
+      "b": "c4-11",
+      "weight": 41.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "407",
+      "b": "c4-14",
+      "weight": 38.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "403",
+      "b": "c4-16",
+      "weight": 33.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "401",
+      "b": "c4-17",
+      "weight": 149.41,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "422",
+      "b": "c4-0",
+      "weight": 49.68,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "420",
+      "b": "c4-1",
+      "weight": 32.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "416",
+      "b": "c4-4",
+      "weight": 35.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "412",
+      "b": "c4-6",
+      "weight": 47.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "410",
+      "b": "c4-10",
+      "weight": 51.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "408",
+      "b": "c4-12",
+      "weight": 52.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "406",
+      "b": "c4-13",
+      "weight": 57.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "404",
+      "b": "c4-15",
+      "weight": 61.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "sW4",
+      "b": "w4-2",
+      "weight": 51.66,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sW3",
+      "b": "sW4",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sC4",
+      "b": "c4-7",
+      "weight": 42.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sC3",
+      "b": "sC4",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sD4",
+      "b": "c4-9",
+      "weight": 38.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sD3",
+      "b": "sD4",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sE4",
+      "b": "c4-17",
+      "weight": 61.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sE3",
+      "b": "sE4",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "foyer-4",
+      "b": "c4-8",
+      "weight": 143.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "foyer-4",
+      "b": "hall-4",
+      "weight": 145.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "c5-0",
+      "b": "c5-1",
+      "weight": 12.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-1",
+      "b": "c5-2",
+      "weight": 17.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-2",
+      "b": "c5-3",
+      "weight": 126.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-3",
+      "b": "c5-4",
+      "weight": 104.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-4",
+      "b": "c5-5",
+      "weight": 70.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-5",
+      "b": "c5-6",
+      "weight": 6.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-6",
+      "b": "c5-7",
+      "weight": 78.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-7",
+      "b": "c5-8",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-8",
+      "b": "c5-9",
+      "weight": 105.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-9",
+      "b": "c5-10",
+      "weight": 60.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-10",
+      "b": "c5-11",
+      "weight": 9.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-11",
+      "b": "c5-12",
+      "weight": 72.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-12",
+      "b": "c5-13",
+      "weight": 71.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-13",
+      "b": "c5-14",
+      "weight": 3.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-14",
+      "b": "c5-15",
+      "weight": 81.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-15",
+      "b": "c5-16",
+      "weight": 4.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-16",
+      "b": "c5-17",
+      "weight": 55.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-17",
+      "b": "c5-18",
+      "weight": 55.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c5-18",
+      "b": "c5-19",
+      "weight": 24.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w5-0",
+      "b": "w5-1",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w5-1",
+      "b": "w5-2",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w5-2",
+      "b": "w5-3",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w5-3",
+      "b": "c5-0",
+      "weight": 95.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "528",
+      "b": "w5-0",
+      "weight": 52.39,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "530",
+      "b": "w5-0",
+      "weight": 42.19,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "526",
+      "b": "w5-3",
+      "weight": 52.15,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "519",
+      "b": "w5-3",
+      "weight": 34.23,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "517",
+      "b": "c5-2",
+      "weight": 49.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "513",
+      "b": "c5-3",
+      "weight": 59.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "511",
+      "b": "c5-5",
+      "weight": 56.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "509",
+      "b": "c5-11",
+      "weight": 39.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "507",
+      "b": "c5-13",
+      "weight": 37.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "505",
+      "b": "c5-16",
+      "weight": 33.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "503",
+      "b": "c5-17",
+      "weight": 32.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "501",
+      "b": "c5-19",
+      "weight": 31.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "524",
+      "b": "c5-0",
+      "weight": 55.22,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "522",
+      "b": "c5-1",
+      "weight": 32.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "518",
+      "b": "c5-3",
+      "weight": 37.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "516",
+      "b": "c5-4",
+      "weight": 40.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "514",
+      "b": "c5-6",
+      "weight": 44.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "510",
+      "b": "c5-10",
+      "weight": 55.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "508",
+      "b": "c5-12",
+      "weight": 55.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "506",
+      "b": "c5-14",
+      "weight": 60.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "504",
+      "b": "c5-15",
+      "weight": 63.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "sW5",
+      "b": "w5-2",
+      "weight": 53.85,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sW4",
+      "b": "sW5",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sC5",
+      "b": "c5-7",
+      "weight": 42.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sC4",
+      "b": "sC5",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sD5",
+      "b": "c5-9",
+      "weight": 38.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sD4",
+      "b": "sD5",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sE5",
+      "b": "c5-18",
+      "weight": 61.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sE4",
+      "b": "sE5",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "museum",
+      "b": "c5-8",
+      "weight": 154.32,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "c6-0",
+      "b": "c6-1",
+      "weight": 25.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-1",
+      "b": "c6-2",
+      "weight": 81.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-2",
+      "b": "c6-3",
+      "weight": 64.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-3",
+      "b": "c6-4",
+      "weight": 18.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-4",
+      "b": "c6-5",
+      "weight": 74.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-5",
+      "b": "c6-6",
+      "weight": 72.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-6",
+      "b": "c6-7",
+      "weight": 96.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-7",
+      "b": "c6-8",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-8",
+      "b": "c6-9",
+      "weight": 105.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-9",
+      "b": "c6-10",
+      "weight": 63.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-10",
+      "b": "c6-11",
+      "weight": 4.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-11",
+      "b": "c6-12",
+      "weight": 69.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-12",
+      "b": "c6-13",
+      "weight": 82.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-13",
+      "b": "c6-14",
+      "weight": 87.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c6-14",
+      "b": "c6-15",
+      "weight": 105.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w6-0",
+      "b": "w6-1",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w6-1",
+      "b": "w6-2",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w6-2",
+      "b": "w6-3",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w6-3",
+      "b": "c6-0",
+      "weight": 104.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "624",
+      "b": "w6-0",
+      "weight": 50.12,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "626",
+      "b": "w6-0",
+      "weight": 46.65,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "622",
+      "b": "w6-3",
+      "weight": 49.09,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "615",
+      "b": "w6-3",
+      "weight": 36.22,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "613",
+      "b": "c6-1",
+      "weight": 50.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "611",
+      "b": "c6-2",
+      "weight": 63.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "611а",
+      "b": "c6-4",
+      "weight": 59.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "609",
+      "b": "c6-6",
+      "weight": 59.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "607",
+      "b": "c6-11",
+      "weight": 40.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "605",
+      "b": "c6-13",
+      "weight": 37.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "603",
+      "b": "c6-14",
+      "weight": 32.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "601",
+      "b": "c6-15",
+      "weight": 164.68,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "620",
+      "b": "c6-0",
+      "weight": 41.18,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "616",
+      "b": "c6-3",
+      "weight": 41.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "614",
+      "b": "c6-5",
+      "weight": 44.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "610",
+      "b": "c6-10",
+      "weight": 54.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "608",
+      "b": "c6-12",
+      "weight": 57.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "sW6",
+      "b": "w6-2",
+      "weight": 57.8,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sW5",
+      "b": "sW6",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sC6",
+      "b": "c6-7",
+      "weight": 42.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sC5",
+      "b": "sC6",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sD6",
+      "b": "c6-9",
+      "weight": 38.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sD5",
+      "b": "sD6",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sE6",
+      "b": "c6-15",
+      "weight": 61.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sE5",
+      "b": "sE6",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "c7-0",
+      "b": "c7-1",
+      "weight": 30.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-1",
+      "b": "c7-2",
+      "weight": 4.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-2",
+      "b": "c7-3",
+      "weight": 113.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-3",
+      "b": "c7-4",
+      "weight": 25.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-4",
+      "b": "c7-5",
+      "weight": 102.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-5",
+      "b": "c7-6",
+      "weight": 80.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-6",
+      "b": "c7-7",
+      "weight": 15.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-7",
+      "b": "c7-8",
+      "weight": 86.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-8",
+      "b": "c7-9",
+      "weight": 100.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-9",
+      "b": "c7-10",
+      "weight": 105.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-10",
+      "b": "c7-11",
+      "weight": 69.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-11",
+      "b": "c7-12",
+      "weight": 7.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-12",
+      "b": "c7-13",
+      "weight": 69.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-13",
+      "b": "c7-14",
+      "weight": 83.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-14",
+      "b": "c7-15",
+      "weight": 3.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-15",
+      "b": "c7-16",
+      "weight": 80.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-16",
+      "b": "c7-17",
+      "weight": 4.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-17",
+      "b": "c7-18",
+      "weight": 66.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-18",
+      "b": "c7-19",
+      "weight": 29.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "c7-19",
+      "b": "c7-20",
+      "weight": 44.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w7-0",
+      "b": "w7-1",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w7-1",
+      "b": "w7-2",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w7-2",
+      "b": "w7-3",
+      "weight": 50.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "w7-3",
+      "b": "c7-0",
+      "weight": 112.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "732",
+      "b": "w7-0",
+      "weight": 40.26,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "734",
+      "b": "w7-0",
+      "weight": 48.26,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "730",
+      "b": "w7-2",
+      "weight": 41.48,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "728",
+      "b": "w7-1",
+      "weight": 52.77,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "726",
+      "b": "w7-3",
+      "weight": 35.36,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "724",
+      "b": "c7-0",
+      "weight": 61.03,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "717",
+      "b": "w7-3",
+      "weight": 41.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "715",
+      "b": "c7-1",
+      "weight": 52.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "713",
+      "b": "c7-3",
+      "weight": 66.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "711",
+      "b": "c7-6",
+      "weight": 62.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "709",
+      "b": "c7-12",
+      "weight": 47.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "707",
+      "b": "c7-14",
+      "weight": 40.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "705",
+      "b": "c7-17",
+      "weight": 37.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "703",
+      "b": "c7-18",
+      "weight": 35.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "701",
+      "b": "c7-20",
+      "weight": 37.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "722",
+      "b": "c7-0",
+      "weight": 44.2,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "720",
+      "b": "c7-2",
+      "weight": 30.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "716",
+      "b": "c7-4",
+      "weight": 38.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "714",
+      "b": "c7-5",
+      "weight": 46.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "712",
+      "b": "c7-7",
+      "weight": 45.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "710",
+      "b": "c7-11",
+      "weight": 59.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "708",
+      "b": "c7-13",
+      "weight": 60.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "706",
+      "b": "c7-15",
+      "weight": 65.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "704",
+      "b": "c7-16",
+      "weight": 68.0,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "sW7",
+      "b": "w7-2",
+      "weight": 62.2,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sW6",
+      "b": "sW7",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sC7",
+      "b": "c7-8",
+      "weight": 42.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sC6",
+      "b": "sC7",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sD7",
+      "b": "c7-10",
+      "weight": 38.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sD6",
+      "b": "sD7",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "sE7",
+      "b": "c7-19",
+      "weight": 61.0,
+      "kind": "corridor",
+      "status": "inferred-from-visible-plan"
+    },
+    {
+      "a": "sE6",
+      "b": "sE7",
+      "weight": 190,
+      "kind": "stairs",
+      "status": "vertical-connection-needs-survey"
+    },
+    {
+      "a": "wc-west-1",
+      "b": "c1-6",
+      "weight": 47.17,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-west-2",
+      "b": "c2-5",
+      "weight": 44.18,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-east-2",
+      "b": "c2-13",
+      "weight": 44.18,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-west-3",
+      "b": "c3-6",
+      "weight": 53.25,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-east-3",
+      "b": "c3-12",
+      "weight": 44.01,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-west-4",
+      "b": "c4-5",
+      "weight": 82.68,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-east-4",
+      "b": "c4-12",
+      "weight": 44.28,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-west-5",
+      "b": "c5-4",
+      "weight": 44.28,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-east-5",
+      "b": "c5-12",
+      "weight": 44.41,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-west-6",
+      "b": "c6-5",
+      "weight": 44.91,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-east-6",
+      "b": "c6-12",
+      "weight": 44.01,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-west-7",
+      "b": "c7-5",
+      "weight": 44.41,
+      "kind": "door",
+      "status": "door-needs-survey"
+    },
+    {
+      "a": "wc-east-7",
+      "b": "c7-13",
+      "weight": 44.18,
+      "kind": "door",
+      "status": "door-needs-survey"
+    }
+  ],
+  "pendingRooms": [
+    {
+      "floor": 1,
+      "reason": "Неподписанные/нечитаемые помещения и точные места дверей требуют уточнения."
+    },
+    {
+      "floor": 2,
+      "reason": "Неподписанные/нечитаемые помещения и точные места дверей требуют уточнения."
+    },
+    {
+      "floor": 3,
+      "reason": "Неподписанные/нечитаемые помещения и точные места дверей требуют уточнения."
+    },
+    {
+      "floor": 4,
+      "reason": "Неподписанные/нечитаемые помещения и точные места дверей требуют уточнения."
+    },
+    {
+      "floor": 5,
+      "reason": "Неподписанные/нечитаемые помещения и точные места дверей требуют уточнения."
+    },
+    {
+      "floor": 6,
+      "reason": "Неподписанные/нечитаемые помещения и точные места дверей требуют уточнения."
+    },
+    {
+      "floor": 7,
+      "reason": "Неподписанные/нечитаемые помещения и точные места дверей требуют уточнения."
+    },
+    {
+      "id": "207а",
+      "floor": 2,
+      "reason": "Номер есть в прежнем официальном перечне, но положение не читается на скриншоте. Исключён из маршрутов."
+    },
+    {
+      "id": "220",
+      "floor": 2,
+      "reason": "Номер есть в прежнем официальном перечне, но положение не читается на скриншоте. Исключён из маршрутов."
+    },
+    {
+      "id": "315",
+      "floor": 3,
+      "reason": "Номер есть в прежнем официальном перечне, но положение не читается на скриншоте. Исключён из маршрутов."
+    },
+    {
+      "id": "402",
+      "floor": 4,
+      "reason": "Номер есть в прежнем официальном перечне, но положение не читается на скриншоте. Исключён из маршрутов."
+    },
+    {
+      "id": "405",
+      "floor": 4,
+      "reason": "Номер есть в прежнем официальном перечне, но положение не читается на скриншоте. Исключён из маршрутов."
+    },
+    {
+      "id": "418",
+      "floor": 4,
+      "reason": "Номер есть в прежнем официальном перечне, но положение не читается на скриншоте. Исключён из маршрутов."
+    },
+    {
+      "id": "515",
+      "floor": 5,
+      "reason": "Номер есть в прежнем официальном перечне, но положение не читается на скриншоте. Исключён из маршрутов."
+    },
+    {
+      "id": "612",
+      "floor": 6,
+      "reason": "Номер есть в прежнем официальном перечне, но положение не читается на скриншоте. Исключён из маршрутов."
+    },
+    {
+      "id": "618",
+      "floor": 6,
+      "reason": "Номер есть в прежнем официальном перечне, но положение не читается на скриншоте. Исключён из маршрутов."
+    },
+    {
+      "id": "001",
+      "floor": 1,
+      "reason": "Студенческий офис указан в карточке 2ГИС, но положение 001 не видно на предоставленной подложке. Нельзя подменять его кабинетом 007."
+    }
+  ],
+  "sources": [
+    {
+      "id": "2gis",
+      "url": "https://2gis.ru/tula?floor=1&m=37.586313%2C54.166954%2F18.94",
+      "label": "2ГИС · исходная карта",
+      "supports": "Подложки и расположение помещений: семь скриншотов, предоставленных пользователем. Главный корпус Гл- скрыт."
+    },
+    {
+      "id": "cabs",
+      "url": "https://tulsu.ru/sveden/objects/cabs",
+      "label": "Перечень аудиторий ТулГУ",
+      "supports": "Дополнительные номера без читаемых координат вынесены в список уточнений."
+    }
+  ]
+};
