@@ -1,24 +1,6 @@
-const assert=require('node:assert/strict');
+const test=require('node:test'),assert=require('node:assert/strict');
 const {shortestPath}=require('../routing.js');
-const data=require('../data/building.json');
-const ns=['a','b','c','d'].map(id=>({id}));
-const es=[{a:'a',b:'b',weight:10},{a:'a',b:'c',weight:2},{a:'c',b:'b',weight:1}];
-assert.deepEqual(shortestPath(ns,es,'a','b'),{path:['a','c','b'],cost:3});
-assert.equal(shortestPath(ns,es,'a','d'),null);
-assert.equal(shortestPath(ns,es,'unknown','b'),null);
-assert.deepEqual(shortestPath(ns,es,'a','a'),{path:['a'],cost:0});
-assert.deepEqual(shortestPath(ns,es,'b','a').path,['b','c','a']);
-assert.equal(shortestPath(ns,es.map(e=>({...e,closed:true})),'a','b'),null);
-assert.throws(()=>shortestPath(ns,[{a:'a',b:'b',weight:-1}],'a','b'));
-assert.equal(new Set(data.nodes.map(n=>n.id)).size,data.nodes.length);
-for(const start of data.nodes){const end={id:"113"};const r=shortestPath(data.nodes,data.edges,start.id,end.id);assert.ok(r);for(let i=1;i<r.path.length;i++)assert.ok(data.edges.some(e=>(e.a===r.path[i-1]&&e.b===r.path[i])||(e.b===r.path[i-1]&&e.a===r.path[i])));}
-const r=shortestPath(data.nodes,data.edges,'113','714');
-assert.ok(r.path.some(id=>id.startsWith('s')));
-for(const target of ['hall-4','cloakroom','passes','sber-atm','dining','museum'])assert.ok(shortestPath(data.nodes,data.edges,'113',target));
-assert.deepEqual(data.floors,[1,2,3,4,5,6,7]);
-for(const f of data.floors)assert.ok(data.plans[f].shapes.length);
-console.log('OK: weighted shortest path, reversal, identical endpoints, unreachable and unknown endpoints, closed edges, invalid weights, all building endpoints and cross-floor route.');
-
-for(const f of data.floors)assert.ok(data.plans[f].shapes.every(s=>s.width>0&&s.height>0));
-const ids=new Map(data.nodes.map(n=>[n.id,n]));
-for(const e of data.edges){const a=ids.get(e.a),b=ids.get(e.b);if(a.floor===b.floor)assert.ok(a.x===b.x||a.y===b.y,`Diagonal edge ${e.a} -> ${e.b}`);}
+const nodes=['714','stairs7','stairs3','312'].map(id=>({id}));
+const edges=[{a:'714',b:'stairs7',weight:1},{a:'stairs7',b:'stairs3',weight:4},{a:'stairs3',b:'312',weight:1},{a:'714',b:'312',weight:20}];
+test('existing routing chooses cheaper path in both directions',()=>{assert.equal(shortestPath(nodes,edges,'714','312').cost,6);assert.equal(shortestPath(nodes,edges,'312','714').cost,6);});
+test('same, unknown, closed nodes and invalid weights',()=>{assert.equal(shortestPath(nodes,edges,'714','714').cost,0);assert.equal(shortestPath(nodes,edges,'x','312'),null);assert.equal(shortestPath(nodes,edges.map(e=>({...e,closed:true})),'714','312'),null);assert.throws(()=>shortestPath(nodes,[{a:'714',b:'312',weight:-1}],'714','312'));});

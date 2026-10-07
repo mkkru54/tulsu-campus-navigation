@@ -36,3 +36,5 @@ $('plus').onclick=()=>{scale=Math.min(3,scale+.25);render();};$('minus').onclick
 // Map shortcuts use stable IDs, without interpreting main-building labels.
 for(const id of ['hall-4','cloakroom','passes','sber-atm','dining','museum']){const n=nodes.get(id),b=document.createElement('button');b.type='button';b.textContent=n.label;b.onclick=()=>{$('to').value=n.label;calculate();floor=n.floor;render();};$('quick-places').append(b);}
 calculate();
+
+window.Navigation9={rooms:new Set(places.filter(n=>n.kind==='room').map(n=>n.id)),setRoute(a,b){$('from').value=a;$('to').value=b;calculate();}};
